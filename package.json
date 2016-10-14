@@ -1,0 +1,28 @@
+{
+  "name": "try_catch",
+  "version": "1.0.0",
+  "description": "try/catch as a function.",
+  "keywords": [
+    "try",
+    "catch",
+    "function",
+    "functional",
+    "return"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/tests.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m59peacemaker/js-try-catch"
+  },
+  "author": {
+    "name": "Johnny Hauser",
+    "email": "johnnyhauser@gmail.com"
+  },
+  "license": "VOL",
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
+}
