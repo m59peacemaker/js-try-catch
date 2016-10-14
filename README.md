@@ -16,7 +16,15 @@ try {
 With `try_catch`:
 
 ```js
+const tryCatch = require('try_catch')
+
 const x = tryCatch(thisMightThrow, somethingElse)
+```
+
+## install
+
+```sh
+npm install try_catch
 ```
 
 ## API
